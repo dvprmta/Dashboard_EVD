@@ -37,35 +37,6 @@ Temukan informasi penting tentang jumlah korban, kerugian ekonomi, dan penyebara
 
 Dashboard ini menyajikan analisis komprehensif data bencana alam tahun 2024, dengan fokus pada visualisasi interaktif dari berbagai jenis bencana seperti banjir, gempa bumi, tornado, badai, dan kebakaran hutan. Data dikategorikan berdasarkan wilayah, periode waktu, dan dampak, mencakup informasi tentang korban jiwa dan kerugian ekonomi. Dilengkapi dengan fitur penyaringan canggih, grafik dinamis, dan peta interaktif, dashboard ini memungkinkan pengguna untuk mengeksplorasi pola, tren, dan tingkat keparahan bencana secara mendalam.
 
-**Metodologi**
-
-**1. Analisis Statistik Deskriptif**
-
-- Ukuran Pemusatan: Mean, median, dan modus untuk mengidentifikasi nilai tipikal
-- Ukuran Penyebaran: Standar deviasi, range, dan IQR untuk mengukur variabilitas
-- Distribusi: Analisis skewness dan kurtosis untuk memahami bentuk distribusi data
-- Visualisasi: Histogram, box plot, dan violin plot untuk representasi visual distribusi
-
-**2. Analisis Korelasi**
-
-- Korelasi Pearson: Mengukur kekuatan hubungan linear antar variabel numerik
-- Heatmap Korelasi: Visualisasi matriks korelasi untuk memudahkan interpretasi
-- Analisis Multivariat: Mengeksplorasi hubungan kompleks antar multiple variabel
-
-**3. Analisis Regresi**
-
-- Regresi Linear: Memodelkan hubungan linear antara variabel dependen dan independen
-- Evaluasi Model: Menggunakan R², RMSE, dan p-value untuk menilai kualitas model
-- Diagnostik Model: Analisis residual dan uji asumsi untuk validasi model
-
-**4. Analisis Time Series & Peramalan**
-
-- ARIMA: Model untuk menganalisis dan meramalkan data time series dengan mempertimbangkan autoregressive dan moving average components
-- Exponential Smoothing (ETS): Metode peramalan yang memberikan bobot lebih besar pada observasi terbaru
-- Simple Moving Average (SMA): Teknik smoothing sederhana untuk mengidentifikasi tren
-- Evaluasi Forecast: Menggunakan metrik RMSE, MAE, dan MAPE untuk menilai akurasi peramalan
-
-
 ## :desktop_computer: Dashboard Database
 
 Berikut merupakan tampilan awal dari dasboard SIAP TANGGAP - Sistem Informasi Analisis & Penanggulangan Bencana 
@@ -97,6 +68,36 @@ Dashboard menggunakan `shinny`, `shinnythemes`, `bs4Dash`, `DT`, dan `dplyr` dar
 **Sumber**
 
 Data diperoleh dari [Kaggle - Prediction of Disaster Management in 2024](https://www.kaggle.com/datasets/umeradnaan/prediction-of-disaster-management-in-2024). Dataset ini telah melalui proses pembersihan dan validasi untuk memastikan kualitas dan konsistensi analisis.
+
+
+**Metodologi**
+
+**1. Analisis Statistik Deskriptif**
+
+- Ukuran Pemusatan: Mean, median, dan modus untuk mengidentifikasi nilai tipikal
+- Ukuran Penyebaran: Standar deviasi, range, dan IQR untuk mengukur variabilitas
+- Distribusi: Analisis skewness dan kurtosis untuk memahami bentuk distribusi data
+- Visualisasi: Histogram, box plot, dan violin plot untuk representasi visual distribusi
+
+**2. Analisis Korelasi**
+
+- Korelasi Pearson: Mengukur kekuatan hubungan linear antar variabel numerik
+- Heatmap Korelasi: Visualisasi matriks korelasi untuk memudahkan interpretasi
+- Analisis Multivariat: Mengeksplorasi hubungan kompleks antar multiple variabel
+
+**3. Analisis Regresi**
+
+- Regresi Linear: Memodelkan hubungan linear antara variabel dependen dan independen
+- Evaluasi Model: Menggunakan R², RMSE, dan p-value untuk menilai kualitas model
+- Diagnostik Model: Analisis residual dan uji asumsi untuk validasi model
+
+**4. Analisis Time Series & Peramalan**
+
+- ARIMA: Model untuk menganalisis dan meramalkan data time series dengan mempertimbangkan autoregressive dan moving average components
+- Exponential Smoothing (ETS): Metode peramalan yang memberikan bobot lebih besar pada observasi terbaru
+- Simple Moving Average (SMA): Teknik smoothing sederhana untuk mengidentifikasi tren
+- Evaluasi Forecast: Menggunakan metrik RMSE, MAE, dan MAPE untuk menilai akurasi peramalan
+
 
 ## :open_file_folder: Struktur Folder
 
