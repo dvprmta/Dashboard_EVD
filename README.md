@@ -46,32 +46,23 @@ Dashboard ini menyajikan analisis komprehensif data bencana alam tahun 2024, den
 - Distribusi: Analisis skewness dan kurtosis untuk memahami bentuk distribusi data
 - Visualisasi: Histogram, box plot, dan violin plot untuk representasi visual distribusi
 
-
 **2. Analisis Korelasi**
 
 - Korelasi Pearson: Mengukur kekuatan hubungan linear antar variabel numerik
-
 - Heatmap Korelasi: Visualisasi matriks korelasi untuk memudahkan interpretasi
-
 - Analisis Multivariat: Mengeksplorasi hubungan kompleks antar multiple variabel
 
 **3. Analisis Regresi**
 
 - Regresi Linear: Memodelkan hubungan linear antara variabel dependen dan independen
-
 - Evaluasi Model: Menggunakan R², RMSE, dan p-value untuk menilai kualitas model
-
 - Diagnostik Model: Analisis residual dan uji asumsi untuk validasi model
-
 
 **4. Analisis Time Series & Peramalan**
 
 - ARIMA: Model untuk menganalisis dan meramalkan data time series dengan mempertimbangkan autoregressive dan moving average components
-
 - Exponential Smoothing (ETS): Metode peramalan yang memberikan bobot lebih besar pada observasi terbaru
-
 - Simple Moving Average (SMA): Teknik smoothing sederhana untuk mengidentifikasi tren
-
 - Evaluasi Forecast: Menggunakan metrik RMSE, MAE, dan MAPE untuk menilai akurasi peramalan
 
 
