@@ -24,7 +24,7 @@
 - [Deskripsi Data](#postbox-deskripsi-data)
 - [Metodologi](#mag-metodologi)
 - [Struktur Folder](#open_file_folder-struktur-folder)
-- [Tim Pengembang](#ninja-tim-pengembang)
+- [Tim Pengembang](#computer-tim-pengembang)
 
 
 ## :notebook: Tentang
