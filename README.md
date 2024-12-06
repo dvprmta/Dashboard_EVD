@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="350" height="350" src="image/logo StatHub.png">
+  <img width="1920" height="1080" src="Image/peta.png">
 </p>
 
 <div align="center">
@@ -118,6 +118,6 @@ Dashboard menggunakan `shinny`, `shinnythemes`, `bs4Dash`, `DT`, dan `dplyr` dar
 
 
 ## :computer: Tim Pengembang
-+ Database Manager : [Adhiyatma Nugraha](https://github.com/adhiyatmanugraha) (G1501231085)
++ Data Analyst : [Adhiyatma Nugraha](https://github.com/adhiyatmanugraha) (G1501231085)
 + UI/UX Developer : [Devi Permata Sari](https://github.com/dvprmta) (G1501231026)
 + Technical Writer : [Tukhfatur Rizmah A.](https://github.com/tukhfaturr) (G1501231023)
