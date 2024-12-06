@@ -65,7 +65,7 @@ Di era perubahan iklim dan meningkatnya frekuensi bencana, alat seperti Natural 
 
 ## :desktop_computer: Dashboard Database
 
-Berikut merupakan tampilan awal dari Portal StatHub Database
+Berikut merupakan tampilan awal dari Natural Disaster Dashboard 
 <p align="center">
   <img width="900" height="450" src="Image/dashboard">
 </p>
