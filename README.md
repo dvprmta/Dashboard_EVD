@@ -66,7 +66,7 @@ Di era perubahan iklim dan meningkatnya frekuensi bencana, alat seperti Natural 
 
 Berikut merupakan tampilan awal dari Portal StatHub Database
 <p align="center">
-  <img width="900" height="450" src="image/dashboard1.png">
+  <img width="900" height="450" src="image/dashboard.png">
 </p>
 
 ## :octocat: Demo
@@ -260,6 +260,6 @@ CREATE TABLE IF NOT EXISTS jalur (
 
 
 ## :ninja: Tim Pengembang
-+ 💃Database Manager : [Adhiyatma Nugraha](https://github.com/adhiyatma) (G1501231029)
++ 💃Database Manager : [Adhiyatma Nugraha](https://github.com/adhiyatmanugraha) (G1501231085)
 + 👩‍🍳UI/UX Developer : [Devi Permata Sari](https://github.com/dvprmta) (G1501231026)
 + 🏄‍♀️Technical Writer : [Tukhfatur Rizmah A.](https://github.com/tukhfaturr) (G1501231023)
