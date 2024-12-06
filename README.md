@@ -83,8 +83,8 @@ Dashboard menggunakan `shinny`, `shinnythemes`, `bs4Dash`, `DT`, dan `dplyr` dar
 
 ## :postbox: Deskripsi Data
 - Dataset mencakup informasi dari enam negara: Brasil, China, India, Indonesia, Jepang, dan Amerika Serikat
-- Periode data: Januari 2024 hingga Februari 2025
-- Total entri: 10.000 records
+- Periode data: Januari 2024 hingga Oktober 2024
+- Total entri: 7.320 records
 
 **Variabel yang dicakup:**
 
