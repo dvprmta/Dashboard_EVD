@@ -30,7 +30,8 @@
 
 ## :notebook: Tentang
 <div align="justify">
-Dalam menghadapi tantangan terkait bencana alam, informasi yang akurat dan cepat adalah kunci. Disaster Dashboard hadir untuk memberikan alat yang mempermudah analisis dan pengambilan keputusan berdasarkan data. Dashboard ini dirancang untuk menyajikan data terkait bencana alam seperti gempa bumi, banjir, tanah longsor, dan lainnya secara interaktif.
+Dalam menghadapi tantangan terkait bencana alam Natural Disaster Dashboard hadir untuk memberikan alat yang mempermudah analisis dan pengambilan keputusan berdasarkan data. Dashboard ini dirancang untuk menyajikan data terkait bencana alam seperti gempa bumi, banjir, tanah longsor, dan lainnya secara interaktif.
+
 
 **Apa Itu Natural Disaster Dashboard?**
 
