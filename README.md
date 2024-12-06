@@ -72,7 +72,7 @@ Berikut merupakan tampilan awal dari Portal StatHub Database
 ## :octocat: Demo
 
 Berikut merupakan link untuk shinnyapps atau dashboard dari project kami:
-[https://rizkyardhani01.shinyapps.io/StatHub_Kel2MDS/](https://dvprmta.shinyapps.io/Disaster_Dashboard/)
+[https://dvprmta.shinyapps.io/Disaster_Dashboard/](https://dvprmta.shinyapps.io/Disaster_Dashboard/)
 
 ## :film_strip: Skema Database
 
