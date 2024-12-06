@@ -42,9 +42,13 @@ Dashboard ini menyajikan analisis komprehensif data bencana alam tahun 2024, den
 **1. Analisis Statistik Deskriptif**
 
 Ukuran Pemusatan: Mean, median, dan modus untuk mengidentifikasi nilai tipikal
+
 Ukuran Penyebaran: Standar deviasi, range, dan IQR untuk mengukur variabilitas
+
 Distribusi: Analisis skewness dan kurtosis untuk memahami bentuk distribusi data
+
 Visualisasi: Histogram, box plot, dan violin plot untuk representasi visual distribusi
+
 
 **2. Analisis Korelasi**
 
