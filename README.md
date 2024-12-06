@@ -82,17 +82,17 @@ Berikut merupakan link untuk shinnyapps atau dashboard dari project kami:
 Dashboard menggunakan `shinny`, `shinnythemes`, `bs4Dash`, `DT`, dan `dplyr` dari package R
 
 ## :postbox: Deskripsi Data
-Dataset mencakup informasi dari enam negara: Brasil, China, India, Indonesia, Jepang, dan Amerika Serikat
-Periode data: Januari 2024 hingga Februari 2025
-Total entri: 10.000 records
+- Dataset mencakup informasi dari enam negara: Brasil, China, India, Indonesia, Jepang, dan Amerika Serikat
+- Periode data: Januari 2024 hingga Februari 2025
+- Total entri: 10.000 records
 
 **Variabel yang dicakup:**
 
-Jenis bencana (kebakaran hutan, angin topan, tornado, banjir, gempa bumi)
-Lokasi dan waktu kejadian
-Jumlah korban jiwa
-Estimasi kerugian ekonomi
-Magnitudo atau intensitas bencana
+- Jenis bencana (kebakaran hutan, angin topan, tornado, banjir, gempa bumi)
+- Lokasi dan waktu kejadian
+- Jumlah korban jiwa
+- Estimasi kerugian ekonomi
+- Magnitudo atau intensitas bencana
 
 **Sumber**
 
