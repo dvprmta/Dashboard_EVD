@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1920" height="1080" src="Image/peta.png">
+  <img width="1920" height="700" src="Image/peta.png">
 </p>
 
 <div align="center">
