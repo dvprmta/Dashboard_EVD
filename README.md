@@ -87,6 +87,7 @@ Periode data: Januari 2024 hingga Februari 2025
 Total entri: 10.000 records
 
 **Variabel yang dicakup:**
+
 Jenis bencana (kebakaran hutan, angin topan, tornado, banjir, gempa bumi)
 Lokasi dan waktu kejadian
 Jumlah korban jiwa
@@ -94,6 +95,7 @@ Estimasi kerugian ekonomi
 Magnitudo atau intensitas bencana
 
 **Sumber**
+
 Data diperoleh dari [Kaggle - Prediction of Disaster Management in 2024](https://www.kaggle.com/datasets/umeradnaan/prediction-of-disaster-management-in-2024). Dataset ini telah melalui proses pembersihan dan validasi untuk memastikan kualitas dan konsistensi analisis.
 
 ## :open_file_folder: Struktur Folder
