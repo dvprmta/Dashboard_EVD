@@ -34,6 +34,7 @@ Temukan informasi penting tentang jumlah korban, kerugian ekonomi, dan penyebara
 
 ### :bookmark_tabs: INFO
 **Ikhtisar**
+
 Dashboard ini menyajikan analisis komprehensif data bencana alam tahun 2024, dengan fokus pada visualisasi interaktif dari berbagai jenis bencana seperti banjir, gempa bumi, tornado, badai, dan kebakaran hutan. Data dikategorikan berdasarkan wilayah, periode waktu, dan dampak, mencakup informasi tentang korban jiwa dan kerugian ekonomi. Dilengkapi dengan fitur penyaringan canggih, grafik dinamis, dan peta interaktif, dashboard ini memungkinkan pengguna untuk mengeksplorasi pola, tren, dan tingkat keparahan bencana secara mendalam.
 
 **Metodologi**
