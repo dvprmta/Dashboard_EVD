@@ -22,6 +22,7 @@
 - [Demo](#octocat-demo)
 - [Requirements](#exclamation-requirements)
 - [Deskripsi Data](#postbox-deskripsi-data)
+- [Metodologi](#mag-metodologi)
 - [Struktur Folder](#open_file_folder-struktur-folder)
 - [Tim Pengembang](#ninja-tim-pengembang)
 
@@ -47,12 +48,14 @@ Berikut merupakan tampilan awal dari dasboard SIAP TANGGAP - Sistem Informasi An
 ## :octocat: Demo
 
 Berikut merupakan link untuk shinnyapps atau dashboard dari project kami:
-[https://dvprmta.shinyapps.io/Disaster_Dashboard/](https://dvprmta.shinyapps.io/Dashboard_EVD/)
+[https://dvprmta.shinyapps.io/Dashboard_EVD/](https://dvprmta.shinyapps.io/Dashboard_EVD/)
 
 ## :exclamation: Requirements
 Dashboard menggunakan `shinny`, `shinnythemes`, `bs4Dash`, `DT`, dan `dplyr` dari package R
 
 ## :postbox: Deskripsi Data
+**Sumber** : Data diperoleh dari [Kaggle - Prediction of Disaster Management in 2024](https://www.kaggle.com/datasets/umeradnaan/prediction-of-disaster-management-in-2024). Dataset ini telah melalui proses pembersihan dan validasi untuk memastikan kualitas dan konsistensi analisis.
+
 - Dataset mencakup informasi dari enam negara: Brasil, China, India, Indonesia, Jepang, dan Amerika Serikat
 - Periode data: Januari 2024 hingga Oktober 2024
 - Total entri: 7.320 records
@@ -65,12 +68,8 @@ Dashboard menggunakan `shinny`, `shinnythemes`, `bs4Dash`, `DT`, dan `dplyr` dar
 - Estimasi kerugian ekonomi
 - Magnitudo atau intensitas bencana
 
-**Sumber**
 
-Data diperoleh dari [Kaggle - Prediction of Disaster Management in 2024](https://www.kaggle.com/datasets/umeradnaan/prediction-of-disaster-management-in-2024). Dataset ini telah melalui proses pembersihan dan validasi untuk memastikan kualitas dan konsistensi analisis.
-
-
-**Metodologi**
+## :mag: Metodologi
 
 **1. Analisis Statistik Deskriptif**
 
