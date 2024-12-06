@@ -67,7 +67,7 @@ Di era perubahan iklim dan meningkatnya frekuensi bencana, alat seperti Natural 
 
 Berikut merupakan tampilan awal dari Portal StatHub Database
 <p align="center">
-  <img width="900" height="450" src="Image/dashboard.png">
+  <img width="900" height="450" src="Image/dashboard">
 </p>
 
 ## :octocat: Demo
